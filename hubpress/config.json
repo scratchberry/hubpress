@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "scratchberry",
-    "repositoryName": "hubpress",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"scratchberry","repositoryName":"hubpress","branch":"gh-pages"},"site":{"url":"https://scratchberry.github.io/hubpress"},"socialnetwork":{},"theme":{"name":"Casper","url":"//scratchberry.github.io/hubpress/themes/Casper"}}
